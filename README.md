@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JAVA + MERN **
 
-- 📫 How to reach me **vivekit2001@gmail.com**
+- 📫 How to reach me **viveksingh142001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
