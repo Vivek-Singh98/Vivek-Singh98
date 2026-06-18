@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning **Generative AI & LLM Fine-tuning**
 - 🔭 I'm currently working on **FastAPI + Django + GenAI Projects**
 - 💬 Ask me about **Python, Django, FastAPI, SQL, and GenAI**
-- 📫 How to reach me **viveksingh142001@gmail.com**
+- 📫 How to reach me **vivekit2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
