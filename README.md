@@ -17,7 +17,7 @@
 - 🛠️ Backend foundation in **Django, DRF, FastAPI & PostgreSQL** — shipping production REST APIs
 - ⚡ Actively transitioning from traditional backend dev → **GenAI / Agentic AI Engineer**
 - 💬 Ask me about: **Python · Django · FastAPI · LangGraph · RAG · LLM Agents · SQL**
-- 📫 Reach me: **vivekit2001@gmail.com**
+- 📫 Reach me: **viveksinghai1412@gmail.com**
 
 ---
 
@@ -54,7 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-1305&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-> ⚠️ Replace `vivek-1305` above with your **actual GitHub username** so the stats cards pull your real data.
 
 ---
 
